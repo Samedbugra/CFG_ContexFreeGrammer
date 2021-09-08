@@ -1,0 +1,34 @@
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe.config
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.pdb
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.csprojResolveAssemblyReference.cache
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.csproj.CoreCompileInputs.cache
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.exe
+C:\Users\Malii\Documents\Visual Studio 2017\Projects\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.pdb
+C:\Users\Malii\Desktop\Yeni klasör\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe.config
+C:\Users\Malii\Desktop\Yeni klasör\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe
+C:\Users\Malii\Desktop\Yeni klasör\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.pdb
+C:\Users\Malii\Desktop\Yeni klasör\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.csprojResolveAssemblyReference.cache
+C:\Users\Malii\Desktop\Yeni klasör\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.csproj.CoreCompileInputs.cache
+C:\Users\Malii\Desktop\Yeni klasör\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.exe
+C:\Users\Malii\Desktop\Yeni klasör\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.pdb
+C:\Users\bugra\Desktop\Odev23_24\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe.config
+C:\Users\bugra\Desktop\Odev23_24\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe
+C:\Users\bugra\Desktop\Odev23_24\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.pdb
+C:\Users\bugra\Desktop\Odev23_24\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.csprojAssemblyReference.cache
+C:\Users\bugra\Desktop\Odev23_24\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.exe
+C:\Users\bugra\Desktop\Odev23_24\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.pdb
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe.config
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.pdb
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.csprojAssemblyReference.cache
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.csproj.CoreCompileInputs.cache
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.exe
+C:\Users\Samed Buğra KARATAŞ\Desktop\Karışık\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.pdb
+C:\Users\bugra\Desktop\sdasdasdasda\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe.config
+C:\Users\bugra\Desktop\sdasdasdasda\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.exe
+C:\Users\bugra\Desktop\sdasdasdasda\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\bin\Debug\ContexFreeGrammar.pdb
+C:\Users\bugra\Desktop\sdasdasdasda\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.csproj.AssemblyReference.cache
+C:\Users\bugra\Desktop\sdasdasdasda\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.csproj.CoreCompileInputs.cache
+C:\Users\bugra\Desktop\sdasdasdasda\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.exe
+C:\Users\bugra\Desktop\sdasdasdasda\Odev24_25\ContexFreeGrammar\ContexFreeGrammar\obj\Debug\ContexFreeGrammar.pdb
